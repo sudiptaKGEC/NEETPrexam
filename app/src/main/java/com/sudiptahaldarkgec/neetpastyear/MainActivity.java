@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         toolbar = findViewById(R.id.home_toolbar_id);
-        toolbar.setTitle("GATE CS/IT");
+        toolbar.setTitle("NEET ");
         setSupportActionBar(toolbar);
 
         ActionBarDrawerToggle actionBarDrawerToggle = new ActionBarDrawerToggle(this, drawerLayout, toolbar, R.string.open_drawer, R.string.close_drawer);

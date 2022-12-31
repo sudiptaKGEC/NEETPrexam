@@ -3,7 +3,7 @@
 
     <group android:checkableBehavior="single">
         <item android:id="@+id/firstId"
-            android:title="Settings"
+            android:title="first item"
             android:icon="@drawable/ic_baseline_settings_24"/>
         <item android:title="second Id"
             android:id="@+id/secondId"/>
@@ -13,7 +13,7 @@
                 <item
                     android:id="@+id/ratingAppId"
                     android:title="Rating App"
-                    android:icon="@drawable/ic_baseline_settings_24"/>
+                    android:icon="@drawable/ic_baseline_star_24"/>
                 <item
                     android:id="@+id/shareAppId2"
                     android:title="Share app"
